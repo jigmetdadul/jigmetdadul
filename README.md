@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/j_s_dev" target="blank"><img src="https://img.shields.io/twitter/follow/j_s_dev?logo=twitter&style=for-the-badge" alt="j_s_dev" /></a> </p>
 
-- 🔭 I’m currently working on **Viridis**
+- 🔭 I’m currently working on **VRApps**
 
-- 🌱 I’m currently learning **SwiftUI, UIKit, Xcode, ML/AI**
+- 🌱 I’m currently learning **SwiftUI, UIKit, Xcode, ML/A, AR/VR**
 
 - 👯 I’m looking to collaborate on **E-Commerce App**
 
