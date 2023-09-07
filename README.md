@@ -16,13 +16,13 @@
 
 - 🤝 I’m looking for help with **E-Commerce App**
 
-- 💬 Ask me about **Xcode, Swift, UIKit**
+- 💬 Ask me about **Xcode, Swift, UIKit, Storyboarding**
 
 - 📫 How to reach me **jigmetsdadul8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/j_s_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="j_s_dev" height="30" width="40" /></a>
+<a href="https://twitter.com/jigmetsdadul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="j_s_dev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jigmet stanzin dadul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jigmet stanzin dadul" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jigmetsd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jigmetsd" height="30" width="40" /></a>
 </p>
