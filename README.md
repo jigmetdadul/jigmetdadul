@@ -8,16 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/jigmetsdadul" target="blank"><img src="https://img.shields.io/twitter/follow/jigmetsdadul?logo=twitter&style=for-the-badge" alt="@jigmetsdadul" /></a> </p>
 
-- 🔭 I’m currently working on **VRApps**
-
-- 🌱 I’m currently learning **SwiftUI, UIKit, Xcode, ML/A, AR/VR**
-
-- 👯 I’m looking to collaborate on **E-Commerce App**
-
-- 🤝 I’m looking for help with **E-Commerce App**
-
-- 💬 Ask me about **Xcode, Swift, UIKit, Storyboarding**
-
 - 📫 How to reach me **jigmetsdadul8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
